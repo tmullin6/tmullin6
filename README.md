@@ -1,6 +1,6 @@
 Hi, I’m Tyler. I am currently self teaching Web development using the Odin Project as well as other resources to help me along. 
 
-I love hiking and getting outdoors as well as video games, currently replaying through Final Fantasy. 
+I love hiking and getting outdoors and playing video games. 
 
 I'm currently learning Web Development with Javascript/Nodejs using the LESS CSS Preprocessor to handle my CSS. 
 
